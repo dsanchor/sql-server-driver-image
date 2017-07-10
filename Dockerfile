@@ -8,5 +8,5 @@ LABEL name="SQL Server JDBC Driver" \
 # Copy driver
 COPY drivers /drivers
 
-#Copy static login configuration
+#Copy configuration
 COPY conf /conf
